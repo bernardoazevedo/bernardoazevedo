@@ -4,6 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bernardoazevedo/bernardoazevedo/output/github-contribution-grid-snake.svg">
 </picture>
 
-![BernardoAzevedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoazevedo&show_icons=true)
-
-[![BernardoAzevedo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoazevedo)](https://github.com/anuraghazra/github-readme-stats)
+![BernardoAzevedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoazevedo&show_icons=true&theme=dark)
